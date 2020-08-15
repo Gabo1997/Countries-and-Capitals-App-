@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Jugar">
+
+    <TextView
+        android:id="@+id/num_pagina"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:text="num"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/ima_fondo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        app:srcCompat="@drawable/fondo" />
+
+    <TextView
+        android:id="@+id/pais"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:textStyle="bold"
+        android:text="PAIS"
+        android:textSize="24sp" />
+
+    <ImageView
+        android:id="@+id/bandera"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="210dp"
+        android:layout_centerHorizontal="true"
+        app:srcCompat="@drawable/australia" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/opcion_1"
+        android:layout_marginTop="300dp"
+        android:text="OPCION 1"
+        android:onClick="respuesta"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/opcion_2"
+        android:layout_marginTop="350dp"
+        android:text="OPCION 1"
+        android:onClick="respuesta"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/opcion_3"
+        android:layout_marginTop="400dp"
+        android:text="OPCION 1"
+        android:onClick="respuesta"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/opcion_4"
+        android:layout_marginTop="450dp"
+        android:text="OPCION 1"
+        android:onClick="respuesta"/>
+
+    <ProgressBar
+        android:id="@+id/progreso"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="320dp"
+        android:layout_height="51dp"
+        android:max="10"
+        android:progressTint="#EE0000"/>
+
+</RelativeLayout>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".registro">
+
+    <TextView
+        android:id="@+id/TITULO"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="REGISTRO"
+        android:textSize="36sp" />
+    <TextView
+        android:id="@+id/nota"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:text="Ingrese su correo y contrasena, y presione el boton que corresponda para empezar a jugar"
+         />
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/nombre"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="200dp"
+        android:hint="CORREO"
+        />
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/pswd"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="300dp"
+        android:hint="CONTRASENA"
+        android:inputType="textPassword"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/crear"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="400dp"
+        android:text="CREAR"
+        android:onClick="crear"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/entrar"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="450dp"
+        android:text="ENTRAR"
+        android:onClick="entrar"/>
+
+</RelativeLayout>

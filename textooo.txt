@@ -1,0 +1,189 @@
+Afghanistan: Kabul. 
+Albania: Tirana.
+Alemania: Berlin.
+Andorra: Andorra la Vieja.
+Antigua y Barbuda: Saint John�s.
+Arabia Saudita: Riad.
+Argelia: Argel.
+Argentina: Buenos Aires.
+Armenia: Erevan.
+Australia: Camberra.
+Austria: Viena.
+Azerbaijan: Baku.
+Bahamas: Nasau.
+Bangladesh: Daca.
+Barbados: Bridgetown.
+Bahrain: Manama.
+Belgica: Bruselas.
+Belice: Belmopan.
+Benin: Porto Novo y Cotonu.
+Bielorrusia: Minsk.
+Birmania: Naipyido.
+Bolivia: Sucre.
+Bosnia y Herzegovina: Sarajevo.
+Botswana: Gaborone.
+Brazil: Brasilia.
+Brunei: Bandar Seri Begawan.
+Bulgaria: Sofia.
+Burkina Faso: Uagadugu.
+Burundi: Gitega.
+Cabo Verde: Praia.
+Camboya: Nom Pen.
+Cameroon: Yaunde.
+Canada: Ottawa.
+Qatar: Doha.
+Chad: Yamena.
+Chile: Santiago de Chile.
+China: Pekin.
+Chipre: Nicosia.
+Ciudad del Vaticano: Ciudad del Vaticano.
+Colombia: Bogota.
+Comoras: Moroni.
+Corea del Norte: Pionyang.
+Corea del Sur: Seul.
+Costa de Marfil: Yamusukro.
+Costa Rica: San Jose.
+Croacia: Zagreb.
+Cuba: La Habana.
+Dinamarca: Copenhague.
+Dominica: Roseau.
+Ecuador: Quito.
+Egipto: El Cairo.
+El Salvador: San Salvador.
+Eritrea: Asmara.
+Eslovaquia: Bratislava.
+Eslovenia: Liubliana.
+Spain: Madrid.
+Estados Unidos: Washington D. C.
+Estonia: Tallin.
+Ethiopia: Adís  Abeba.
+Filipinas: Manila.
+Finlandia: Helsinki.
+Fiyi: Suva.
+Francia: París.
+Gabon: Libreville.
+Gambia: Banjul.
+Georgia: Tiflis.
+Ghana: Acra.
+Granada: Saint George.
+Grecia: Atenas.
+Guatemala: Ciudad de Guatemala.
+Guyana: Georgetown.
+Guinea: Conakri.
+Guinea Ecuatorial: Malabo.
+Haiti: Puerto Príncipe.
+Honduras: Tegucigalpa.
+Hungary: Budapest.
+India: Nueva Delhi.
+Indonesia: Yakarta.
+Irak: Bagdad.
+Iran: Teherán.
+Irlanda: Dublín.
+Islandia: Reikiavik.
+Islas Marshall: Majuro.
+Islas Salomon: Honiara.
+Israel: Jerusalén.
+Italia: Roma.
+Jamaica: Kingston.
+Japan: Tokio.
+Jordania: Amán.
+Kazakhstan: Astaná.
+Kenia: Nairobi.
+Kirguistan: Biskek.
+Kiribati: Tarawa.
+Kuwait: Kuwait.
+Laos: Vientián.
+Lesoto: Maseru.
+Letonia: Riga.
+Libano: Beirut.
+Liberia: Monrovia.
+Libia: Trípoli.
+Liechtenstein: Vaduz.
+Lituania: Vilna.
+Luxemburgo: Luxemburgo.
+Madagascar: Antananarivo.
+Malaysia: Kuala Lumpur.
+Malawi: Lilongüe.
+Maldivas: Malé.
+Mali: Bamako.
+Malta: La Valeta.
+Marruecos: Rabat.
+Mauricio: Port-Louis.
+Mauritania: Nuakchot.
+Mexico: Ciudad de México
+Micronesia: Palikir.
+Moldova: Chisináu.
+Monaco: Mónaco.
+Mongolia: Ulán Bator.
+Montenegro: Podgorica.
+Mozambique: Maputo.
+Namibia: Windhoek.
+Nauru: Yaren.
+Nepal: Katmandú.
+Nicaragua: Managua.
+Niger: Niamey.
+Nigeria: Abuya.
+Noruega: Oslo.
+Nueva Zelanda: Wellington.
+Oman: Mascate.
+Paises Bajos: Ámsterdam.
+Pakistan: Islamabad.
+Palaos: Melekeok.
+Panama: Panamá.
+Papua Nueva Guinea: Port Moresby.
+Paraguay: Asunción.
+Peru: Lima.
+Polonia: Varsovia.
+Portugal: Lisboa.
+Reino Unido: Londres
+Republica Checa: Praga.
+Macedonia: Skopie.
+Republica del Congo: Brazzaville.
+Republica Democratica del Congo: Kinsasa.
+Republica Dominicana: Santo Domingo.
+Ruanda: Kigali.
+Rumania: Bucarest.
+Russia: Moscú.
+Samoa: Apia.
+San Cristobal y Nieves: Basseterre.
+San Marino: San Marino.
+San Vicente y las Granadinas: Kingstown.
+Santa Lucia: Castries.
+Santo Tome y Principe: Santo Tomé.
+Senegal: Dakar.
+Serbia: Belgrado.
+Seychelles: Victoria.
+Sierra Leona: Freetown.
+Singapur: Singapur.
+Siria: Damasco.
+Somalia: Mogadiscio.
+Sri Lanka: Sri Jayewardenepura
+Swaziland: Babane y Lobamba.
+Sudafrica: Ciudad del Cabo
+Sudan: Jartum.
+Suecia: Estocolmo.
+Suiza: Berna.
+Surinam: Paramaribo.
+Tailandia: Bangkok.
+Tanzania: Dodoma.
+Tajikistan: Dusambé.
+Timor Oriental: Dili.
+Togo: Lomé.
+Tonga: Nukualofa.
+Trinidad y Tobago: Puerto España.
+Tunez: Túnez.
+Turkmenistan: Asjabad.
+Turquia: Ankara.
+Tuvalu: Fongafale.
+Ucrania: Kiev.
+Uganda: Kampala.
+Uruguay: Montevideo.
+Uzbekistan: Taskent.
+Vanuatu: Port Vila.
+Venezuela: Caracas.
+Vietnam: Hanói.
+Yemen: Saná.
+Yibuti: Yibuti.
+Zambia: Lusaka.
+Zimbabwe: Harare.
+
